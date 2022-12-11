@@ -4,4 +4,4 @@ A simple RolePlay chat system that restraint the range of the Minecraft base cha
 
 ## Status
 
-Discontinued...
+🔴 Discontinued
