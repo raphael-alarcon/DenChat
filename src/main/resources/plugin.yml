@@ -1,0 +1,5 @@
+name: ChatPlugin
+version: '${project.version}'
+main: chatPlugin.ChatPlugin
+api-version: 1.18
+authors: [ Densetsuuu ]
